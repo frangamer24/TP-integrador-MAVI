@@ -1,0 +1,15 @@
+﻿  juego.cpp
+  main.cpp
+  puntero.cpp
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,85): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,85): warning C4244:         with
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,85): warning C4244:         [
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,85): warning C4244:             T=unsigned int
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,85): warning C4244:         ]
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,53): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,53): warning C4244:         with
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,53): warning C4244:         [
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,53): warning C4244:             T=unsigned int
+C:\SFML\TP integrador MAVI\TP integrador MAVI\TP integrador MAVI\puntero.cpp(11,53): warning C4244:         ]
+  Generando código...
+  TP integrador MAVI.vcxproj -> C:\SFML\TP integrador MAVI\TP integrador MAVI\Debug\TP integrador MAVI.exe
